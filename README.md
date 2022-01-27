@@ -240,7 +240,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 ### <a name="repositorylink">Repository Link</a>
 
-[Mindful Meditation](https://elliej87.github.io/TributePage/)
+[Tribute Page](https://elliej87.github.io/TributePage/)
 
 ### <a name="runningcodelocally">Running Code Locally</a>
 
