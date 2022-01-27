@@ -8,7 +8,7 @@ The overall aim was to acheive a tribute page for a famous figure, my inspiratio
 
 ![Tribute Page](images/responsive-design.jpg) 
 
-A deployed version of my website can be found [here](https://elliej87.github.io/)
+A deployed version of my website can be found [here](https://elliej87.github.io/TributePage/)
 
 This domain will allow you to access the Tribute Page website.
 
@@ -240,7 +240,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 ### <a name="repositorylink">Repository Link</a>
 
-[Mindful Meditation](https://elliej87.github.io/MindfulnessMeditation/)
+[Mindful Meditation](https://elliej87.github.io/TributePage/)
 
 ### <a name="runningcodelocally">Running Code Locally</a>
 
