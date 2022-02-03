@@ -64,7 +64,7 @@ This domain will allow you to access the Tribute Page website.
 
 ## <a name="userexperienceuX">UX (User Experience)</a>
 
-This website is for anyone who wants to get a full time tline of Sir David Attenborough's life and acheivements.
+This website is for anyone who wants to get a full timeline of Sir David Attenborough's life and acheivements.
 
 This site also has a link to his wikepedia site towards the bottom of the page along with links to my social media sites where they can interact with me directly.
 
